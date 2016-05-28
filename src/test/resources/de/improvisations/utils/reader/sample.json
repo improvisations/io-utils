@@ -1,0 +1,19 @@
+{
+  "title": "Test Dictionary Türkçe -> English",
+  "author": "Ulaş Yılmaz",
+  "last update": "Sat May 28 20:56:02 EDT 2016",
+  "source language": "Türkçe",
+  "source encoding": "UTF-8",
+  "target language": "English",
+  "target encoding": "UTF-8",
+  "words": [
+    {
+      "key": "şeker",
+      "definition": "sugar"
+    },
+    {
+      "key": "2 | iki",
+      "definition": "two"
+    }
+  ]
+}
